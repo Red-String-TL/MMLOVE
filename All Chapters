@@ -28,6 +28,14 @@
         "Red String": "/proxy/api/imgur/chapter/nrwW2gD/"
       },
       "last_updated": "1643603742"
+},
+     "3": {
+      "title": "Chapter 3",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/UZisrEQ/"
+      },
+      "last_updated": "1643801137"
     }
   }
 }
